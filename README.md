@@ -1,3 +1,3 @@
 # rearrange
 
-I was learning the basics of GitHub on this project.
+I was learning the basics of GitHub by using this project.
